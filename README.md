@@ -104,8 +104,4 @@ by analyzing physiological and behavioral signals, predicting peak focus periods
 Open-source for research and educational purposes.  
 Inspired by behavioral science books like _Good Energy_, _The Inner Game of Tennis_, _Deep Work_, and _Atomic Habits_.
 
----
-
-> 🧘 Xin Flow — Focus with heart. Perform with clarity.
-
 
