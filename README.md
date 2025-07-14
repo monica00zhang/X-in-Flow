@@ -9,11 +9,13 @@ by analyzing physiological and behavioral signals, predicting peak focus periods
 
 ## ✨ Core Value
 
-> For knowledge workers, energy is more valuable than time. Xin Flow helps you use it wisely.
+**X-in Flow** is your cognitive energy assistant, designed to:
 
-- Track your **cognitive**, **physical**, and **emotional energy** through passive & active data
-- Provide actionable **focus practice plans** (breathing, stress relief, mental cues)
-- Reduce **energy leakage** (message overload, decision fatigue, interruptions)
+- Maximize mindflow and deep focus
+- Guide personalized focus training (breathing, stress relief, emotional control)
+- Detect and reduce energy leakage (notifications, mental clutter)
+- Track and visualize your mental energy in real time
+
 
 ---
 
